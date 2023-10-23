@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=kft1AJ9WVDk&ab_channel=Polycode # Create a Simple Neural Network in Python from Scratch Part 1 
+https://www.youtube.com/watch?v=Py4xvZx-A1E&ab_channel=Polycode # Create a Simple Neural Network in Python from Scratch Part 2
+
+https://www.youtube.com/watch?v=9RN2Wr8xvro&ab_channel=BotAcademy # Neural Networks Explained from Scratch using Python
+
+https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi # Neural Networks explained playlist 
+
+https://www.youtube.com/watch?v=pauPCy_s0Ok&ab_channel=TheIndependentCode # Neural Network from Scratch | Mathematics & Python Code
+https://www.youtube.com/watch?v=Lakz2MoHy6o&ab_channel=TheIndependentCode # Convolutional Neural Network from Scratch | Mathematics & Python Code ## Creates / Solves MNSIT
